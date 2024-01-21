@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Reyhan+Mochamad+Fabian!;I'm+a+Data+Scientist+Enthusiast%2C;I'm+a+Machine+Learning+Enthusiast%2C;I'm+a+Flutter+Mobile+Development+Enthusiast%2C;I'm+an+Internet+of+Things+Enthusiast." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Reyhan+Mochamad+Fabian!;I'm+a+Data+Scientist+Enthusiast%2C;I'm+a+Machine+Learning+Enthusiast%2C;I'm+a+Flutter+Mobile+Development+Enthusiast%2C;I'm+an+Internet+of+Things+Enthusiast." />
 </h1>
 🔭 I’m currently an undergraduate student in Computer Engineering at Universitas Pendidikan Indonesia, exploring Machine Learning Algorithms and implementing Computer Vision Projects.<br><br>👯 I’m looking to collaborate on: Innovative Projects in Artificial Intelligence, Computer Vision, or Software Development.<br><br>🤝 I’m looking for help with: Enhancing my skills in Distributed Systems and Cloud Computing.<br><br>🌱 I’m currently learn on Data Science, Machine Learning, Flutter Mobile Development, Web Development and Electronics<br><br>💬 Ask me about: Python Programming, Machine Learning Concepts, or Computer Vision Applications.<br><br><br>
 
