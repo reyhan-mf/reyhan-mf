@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Reyhan+Mochamad+Fabian!;I'm+a+Data+Scientist+Enthusiast%2C;I'm+a+Machine+Learning+Enthusiast%2C;I'm+a+Flutter+Mobile+Development+Enthusiast%2C;I'm+an+Internet+of+Things+Enthusiast." />
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Reyhan+Mochamad+Fabian!;I'm+a+Data+Scientist+Enthusiast%2C;I'm+a+Machine+Learning+Enthusiast%2C;I'm+a+Flutter+Mobile+Development+Enthusiast%2C;I'm+an+Internet+of+Things+Enthusiast." /> -->
 </h1>
 🔭 I’m currently an undergraduate student in Computer Engineering at Universitas Pendidikan Indonesia   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/upi-universitas-pendidikan-indonesia.svg" alt="c" width="15" height="15"/>
